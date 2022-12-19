@@ -1,0 +1,30 @@
+.outer-form-div-register{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 30px;
+    background-color: #617d9f;
+}
+
+.evaluate-button{
+    display: flex;
+    flex-direction: column;
+    /* width: 100px; */
+    margin-top: 20px;
+}
+
+form div{
+    margin-bottom: 10px;
+}
+
+#register-register:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #616c77;
+    color: white;
+}

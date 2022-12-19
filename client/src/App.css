@@ -1,0 +1,70 @@
+
+*{
+  /* margin: 30px; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'PT Sans', sans-serif;
+  /* background-color: rgb(56, 132, 198); */
+  /* background-color: whitesmoke; */
+  /* background: -webkit-linear-gradient(right, #ff512f, yellow); */
+
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  background-color: #8A9B90;
+}
+.logo_img{
+  width: 250px;
+  height: 130px;
+  vertical-align: middle;
+  
+}
+.text1{
+  display: inline;
+  margin: 20px;
+  /* margin-right: 100px; */
+  margin-left: 100px;
+
+}
+.sign_details{
+  display: inline-block;
+  margin-left: 200px;
+}
+
+.img_prop{
+  height: 200px;
+  width: 200px;
+}
+
+.details{
+  display: inline-block; 
+  
+}
+
+.flex1{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.table-1{
+  display: inline;
+  text-align: left;
+}
+td,th{
+  padding: 0 50px;
+}
+.flex2{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-evenly;
+  
+}
+.flex3{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}

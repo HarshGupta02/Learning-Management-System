@@ -1,0 +1,12 @@
+.payment_details{
+    flex: 0.8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stripee{
+    margin-top: 50px;
+    width: 600px;
+}

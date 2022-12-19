@@ -1,0 +1,50 @@
+.outer{
+     /* background: rgb(2,0,36);
+     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(57,159,219,1) 75%); */
+     /* background: rgb(88,149,215);
+    background: linear-gradient(90deg, rgba(88,149,215,1) 0%, rgba(0,39,80,1) 100%); */
+    background: rgb(54,83,118);
+    background: linear-gradient(90deg, rgba(54,83,118,1) 0%, rgba(13,61,108,1) 100%);
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    /* margin-left: 80px; */
+    padding: 20px 0px;
+    /* border-radius: 0px 0px 20px 20px; */
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.sign_details{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+}
+
+#middle{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#right{
+    margin-right: 20px;
+}
+
+.text1{
+    margin-left: 40px;
+    align-items: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: red; */
+    /* background: -webkit-linear-gradient(right, #ff512f, yellow); */
+}
+
+.logo_img{
+    height: auto;
+    max-width: 100%;
+    /* background-color: red; */
+    /* background: -webkit-linear-gradient(right, #ff512f, yellow); */
+    margin-left: 10px;
+    
+}

@@ -1,0 +1,38 @@
+.FormRow{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.payment_details{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card_button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.after_payment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.loader{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 70px;
+    size: 15;
+    color: black;
+    margin-right: 60px;
+    margin-left: 685px;
+}
